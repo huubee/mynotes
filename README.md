@@ -1,6 +1,6 @@
 # mynotes
 
-A new Flutter project.
+A new Flutter project from a tutorial by Vandad Nahavandipoor on Youtube, "Full Flutter course for beginners".
 
 ## Getting Started
 
