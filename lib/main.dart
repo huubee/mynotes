@@ -46,7 +46,8 @@ class HomePage extends StatelessWidget {
                 if (user?.emailVerified ?? false) {
                   print('You are a verified user');
                 } else {
-                  print('your e-mail address must be verified first.');
+                  print(
+                      'your e-mail address must be verified first or, after verification, log in first.git');
                 }
 
                 return const Text('Done!');
